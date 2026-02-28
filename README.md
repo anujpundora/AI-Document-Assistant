@@ -33,7 +33,7 @@ Users can:
 
 ### RAG Flow
 
-![alt text](image.png)
+![RAG flow structure](image.png)
 
 Unlike normal LLM responses, answers are grounded in uploaded documents.
 
@@ -41,7 +41,7 @@ Unlike normal LLM responses, answers are grounded in uploaded documents.
 
 ## 🧩 System Architecture
 
-![alt text](image.png)
+![SYSTEM ARCHITECTURE PNG ](structure.png)
 
 ---
 
@@ -157,7 +157,7 @@ RAG retrieves only relevant knowledge.
 
 ## 🏗️ Project Structure
 
-![alt text](image.png)
+![PROJECT STRUCTURE PNG](image.png)
 
 ---
 
