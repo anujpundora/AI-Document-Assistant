@@ -9,9 +9,9 @@ load_dotenv()
 
 #If query is too long, its automatically truncated by HuggingFaceEmbeddings
 
-# -------------------------------
+
 # SAFE GEMINI CALL WRAPPER
-# -------------------------------
+
 def safe_invoke(llm, prompt):
     try:
         return llm.invoke(prompt)
